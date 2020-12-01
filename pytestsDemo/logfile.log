@@ -1,0 +1,16 @@
+2020-11-18 11:55:14,458:INFO:test_logging:The information statement:
+2020-11-18 11:55:14,458:WARNING:test_logging:The warning statement:
+2020-11-18 11:55:14,458:ERROR:test_logging:The error statement:
+2020-11-18 11:55:14,458:CRITICAL:test_logging:The critical issue:
+2020-11-18 12:19:32,217:INFO:test_logging:The information statement:
+2020-11-18 12:19:32,217:WARNING:test_logging:The warning statement:
+2020-11-18 12:19:32,217:ERROR:test_logging:The error statement:
+2020-11-18 12:19:32,217:CRITICAL:test_logging:The critical issue:
+2020-11-18 12:58:38,117:INFO:pytestsDemo.Baseclass:diviya:
+2020-11-18 12:58:38,117:INFO:pytestsDemo.Baseclass:dharshini:
+2020-11-18 15:41:36,278:INFO:pytestsDemo.Baseclass:diviya:
+2020-11-18 15:41:36,278:INFO:pytestsDemo.Baseclass:dharshini:
+2020-11-18 15:43:10,296:INFO:test_editprofile:diviya:
+2020-11-18 15:43:10,296:INFO:test_editprofile:dharshini:
+2020-11-18 16:03:34,884 :INFO :test_editprofile :diviya
+2020-11-18 16:03:34,884 :INFO :test_editprofile :dharshini
